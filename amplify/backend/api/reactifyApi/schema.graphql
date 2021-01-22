@@ -3,3 +3,7 @@ type Todo @model {
   name: String!
   description: String
 }
+
+type Mutation {
+  add(number1: Int, number2: Int): Int @function(name: "addInputs-${env}")
+}
