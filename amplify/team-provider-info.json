@@ -1,15 +1,26 @@
 {
-  "dev": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-reactify-dev-85730-authRole",
-      "UnauthRoleArn": "arn:aws:iam::130890634285:role/amplify-reactify-dev-85730-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::130890634285:role/amplify-reactify-dev-85730-authRole",
-      "Region": "us-west-2",
-      "DeploymentBucketName": "amplify-reactify-dev-85730-deployment",
-      "UnauthRoleName": "amplify-reactify-dev-85730-unauthRole",
-      "StackName": "amplify-reactify-dev-85730",
-      "StackId": "arn:aws:cloudformation:us-west-2:130890634285:stack/amplify-reactify-dev-85730/ec60b360-5cd2-11eb-9c37-0a1d6640693d",
-      "AmplifyAppId": "d2oiucr24crw2o"
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-reactify-dev-85730-authRole",
+            "UnauthRoleArn": "arn:aws:iam::130890634285:role/amplify-reactify-dev-85730-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::130890634285:role/amplify-reactify-dev-85730-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-reactify-dev-85730-deployment",
+            "UnauthRoleName": "amplify-reactify-dev-85730-unauthRole",
+            "StackName": "amplify-reactify-dev-85730",
+            "StackId": "arn:aws:cloudformation:us-west-2:130890634285:stack/amplify-reactify-dev-85730/ec60b360-5cd2-11eb-9c37-0a1d6640693d",
+            "AmplifyAppId": "d2oiucr24crw2o"
+        },
+        "categories": {
+            "auth": {
+                "reactify3217fee3": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2oiucr24crw2o",
+                    "type": "manual"
+                }
+            }
+        }
     }
-  }
 }
