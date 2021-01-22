@@ -69,7 +69,7 @@
         "Timeout": "25",
         "Code": {
           "S3Bucket": "amplify-reactify-dev-85730-deployment",
-          "S3Key": "amplify-builds/addInputs-7a664d516e61506a7953-build.zip"
+          "S3Key": "amplify-builds/addInputs-7575644a79384c4a6336-build.zip"
         }
       }
     },
